@@ -1,7 +1,7 @@
 <p align="center">
   <img src="(G)OLD ANIME_ Photo.gif">
 </p>
-
+https://komarev.com/ghpvc/?username=Snowe-amy&color=000000&style=plastic&label=✚&base=0&abbreviated=true
 
 <!--
 **kween-sande/kween-sande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
